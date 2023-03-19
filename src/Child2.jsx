@@ -1,8 +1,9 @@
 import React from "react";
+import './Child2Styles.css';
 
 export default function Child2() {
     return(
-        <div>
+        <div className="styles">
             Child2
         </div>
     )
